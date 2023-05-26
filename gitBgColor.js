@@ -1,0 +1,1 @@
+let body = document.body.style.backgroundColor = "blue"
