@@ -1,1 +1,1 @@
-let body = document.body
+let body = document.body.style.backgroundColor = "red"
